@@ -1,2 +1,2 @@
-# leetcode-solutions
-A curated collection of LeetCode solutions in Python, focusing on optimized time and space complexity.
+# LeetCode Progress & Solutions
+This repository tracks my journey through LeetCode problems to sharpen my problem-solving skills and master Data Structures & Algorithms.
